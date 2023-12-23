@@ -17,7 +17,7 @@
   </samp>
   <br> <br>
   <img src="https://img.shields.io/badge/Tester-FF9522?style=for-the-badge&logo=tester&logoColor=white" alt="https://github.com/sibisiphumuza" />
-  <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="https://github.com/sibisiphumuza" />
+  <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="https://sibisips.wixsite.com/phumuzasibisi" />
 
   
 </p>
