@@ -66,7 +66,7 @@
 <p align="center">
   <a href="https://linktr.ee/sibisiphumuza"><img src="https://img.shields.io/badge/linktree-%23D14836.svg?&style=for-the-badge&logo=linktree&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://www.linkedin.com/in/phumuzasibisi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://sibisips.wixsite.com/phumuzasibisi"><img src="https://img.shields.io/badge/blogger-%23D14836.svg?&style=for-the-badge&logo=blogger&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://sibisips.wixsite.com/phumuzasibisi/blog"><img src="https://img.shields.io/badge/blogger-%23D14836.svg?&style=for-the-badge&logo=blogger&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
