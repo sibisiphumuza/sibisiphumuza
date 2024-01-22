@@ -35,14 +35,13 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Logger%3A-log4j-purple"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Reports%3A-ExtentReports-purple"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Framework%3A-POM-Green"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Framework%3A-Keyword%20Driven%20Framework-Green"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Framework%3A-Data%20Driven%20Framework-Green"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Framework%3A-Hybrid%20Driven%20Framework-Green"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/>&nbsp;&nbsp;   
+<img src="https://img.shields.io/badge/log4j-purple?style=for-the-badge&logo=log4j&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/TestNG-Red?style=for-the-badge&logo=testng&logoColor=Navy"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/ExtentReports-Orange?style=for-the-badge&logo=extentreports&logoColor=Navy"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Keyword%20Driven%20Framework-Orange?style=for-the-badge&logo=extentreports&logoColor=Navy"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Hybrid%20Driven%20Framework-Orange?style=for-the-badge&logo=extentreports&logoColor=Navy"/>&nbsp;&nbsp;
      
 </p>
     <p align="center"> Programming Languages - Java, C#
