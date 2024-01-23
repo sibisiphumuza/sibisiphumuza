@@ -11,7 +11,7 @@
 <h2 align="center"> 👨‍💻 Saw'bona </h2>
 <p align="center">
   <samp>
-    Phumuza Sibisi. 13 years as a Software Developer. Transitioned to Software Testing, Agile Tester. 
+    Phumuza Sibisi, Durban South Africa, Agile Tester. 
   </samp>
   <br> <br>
   <img src="https://img.shields.io/badge/Tester-FF9522?style=for-the-badge&logo=tester&logoColor=white" alt="https://github.com/sibisiphumuza" />
