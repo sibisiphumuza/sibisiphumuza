@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-
-
 <!--
 
 <h1 align="center"> 👋 </h1>
@@ -23,18 +20,18 @@
   <h2 align="center"> What I do </h2>
   <p align="center">
    <sample> 
-    **>** Review & contribute to test plan. 
-    **>** Analyse, review & assess requirements, user stories, acceptance criteria, specifications & test basis. 
-    **>** Identify & document test conditions, capture traceability between test cases, test conditions & test basis. 
-    **>** Design, setup, & verify test environment often coordinating with system & network management.
-    **>** Design & implement test cases & test procedure. 
-    **>** Repair and acquire test data. 
-    **>** Create detailed test execution schedule. 
-    **>** Execute tests, evaluate results, & document deviation from expected results. 
-    **>** Use appropriate tools to facilitate test process. 
-    **>** Automate tests as needed. 
-    **>** Evaluate non-functional characteristics (performance efficiency, reliability, usability, security, compatibility & portability). 
-    **>** Review test development with others.
+     > Review & contribute to test plan. &nbsp;&nbsp;&nbsp;
+     > Analyse, review & assess requirements, user stories, acceptance criteria, specifications & test basis. &nbsp;&nbsp;&nbsp;
+     > Identify & document test conditions, capture traceability between test cases, test conditions & test basis. &nbsp;&nbsp;&nbsp;
+     > Design, setup, & verify test environment often coordinating with system & network management.&nbsp;&nbsp;&nbsp;
+     > Design & implement test cases & test procedure. &nbsp;&nbsp;&nbsp;
+     > Repair and acquire test data. &nbsp;&nbsp;&nbsp;
+     > Create detailed test execution schedule. &nbsp;&nbsp;&nbsp;
+     > Execute tests, evaluate results, & document deviation from expected results. &nbsp;&nbsp;&nbsp;
+     > Use appropriate tools to facilitate test process. &nbsp;&nbsp;&nbsp;
+     > Automate tests as needed. &nbsp;&nbsp;&nbsp;
+     > Evaluate non-functional characteristics (performance efficiency, reliability, usability, security, compatibility & portability). &nbsp;&nbsp;&nbsp;
+     > Review test development with others.&nbsp;&nbsp;&nbsp;
   </sample>  
 </p>
 
