@@ -23,7 +23,7 @@
      > Review & contribute to test plan. 
      > Analyse, review & assess requirements, user stories, acceptance criteria, specifications & test basis. 
      > Identify & document test conditions, capture traceability between test cases, test conditions & test basis. 
-     > Design, setup, & verify test environment often coordinating with system & network management.
+     > Contribute to configuring, & verify test environment often coordinating with system & network management.
      > Design & implement test cases & test procedure. 
      > Repair and acquire test data. 
      > Create detailed test execution schedule. 
@@ -38,13 +38,13 @@
 <hr>
 <h2 align="center"> 👨‍💻 An Easy way to connect/remember me</h2>
 <p align="center" align='right'>
-  <a align="center" target="_blank"href="https://linktr.ee/sibisiphumuza"><img src="https://img.shields.io/badge/lets learn from each other -     linktr.ee/sibisiphumuza   -brown" /></a>
+  <a align="center" target="_blank"href="https://linktr.ee/sibisiphumuza"><img src="https://img.shields.io/badge/lets learn from each other - linktr.ee/sibisiphumuza   -brown" /></a>
 <hr>
 
-<h2 align="center"> 🔭 Tools of Trade</h2>
+<h2 align="center"> 🔭 Tools of Trade </h2>
 <p align="center">
-<img src="https://img.shields.io/badge/Selenium-000000?style=for-the-badge&logo=Selenium&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=Postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium-000000?style=for-the-badge&logo=Selenium&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=Postman&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Microsoft_Azure-000000?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>&nbsp;&nbsp;
@@ -58,10 +58,15 @@
 
 <h2 align="center"> 🔭 Testing  </h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/White Box Testing: Code Coverage-F05032?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Black Box Testing-F05032?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Static Testing-F05032?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Dynamic Testing-F05032?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Black Box Testing: Automation-000000?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Static Testing: Manual Testing-000000?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Dynamic Testing-000000?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Checklist-F05032?style=for-the-badge&logo=Selenium&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Unit Testing-F05032?style=for-the-badge&logo=Selenium&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Usability Testing-F05032?style=for-the-badge&logo=Selenium&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Perfomance Testing-F05032?style=for-the-badge&logo=Selenium&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Manual Testcase Design-F05032?style=for-the-badge&logo=Selenium&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Testcase Execution Design-F05032?style=for-the-badge&logo=Selenium&logoColor=white"/>&nbsp;&nbsp;
 </p>
 
 <hr
