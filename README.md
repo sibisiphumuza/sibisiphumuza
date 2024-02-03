@@ -46,7 +46,7 @@
 <img src="https://img.shields.io/badge/Selenium-000000?style=for-the-badge&logo=Selenium&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=Postman&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Microsoft_Azure-000000?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Blogger-000000?style=for-the-badge&logo=blogger&logoColor=white"/>&nbsp;&nbsp;   
