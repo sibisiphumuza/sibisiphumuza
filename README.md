@@ -54,7 +54,7 @@
 <img src="https://img.shields.io/badge/TestNG-Red?style=for-the-badge&logo=testng&logoColor=Navy"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/ExtentReports-Orange?style=for-the-badge&logo=extentreports&logoColor=Navy"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/ReportNG-Orange?style=for-the-badge&logo=extentreports&logoColor=Navy"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/JIRA?style=for-the-badge&logo=extentreports&logoColor=Navy"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JIRA-Orange?style=for-the-badge&logo=extentreports&logoColor=Navy"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Keyword%20Driven%20Framework-Orange?style=for-the-badge&logo=extentreports&logoColor=Navy"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Hybrid%20Driven%20Framework-Orange?style=for-the-badge&logo=extentreports&logoColor=Navy"/>&nbsp;&nbsp;
 
