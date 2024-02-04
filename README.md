@@ -18,18 +18,18 @@
   <h2 align="center"> What I do </h2>
   <p align="center">
    <sample> 
-     **>** Review & contribute to test plan. 
-    ** >** Analyse, review & assess requirements, user stories, acceptance criteria, specifications & test basis. 
-     **>** Identify & document test conditions, capture traceability between test cases, test conditions & test basis. 
-     **>** Contribute to configuring, & verify test environment often coordinating with system & network management.
-     **>** Design & implement test cases & test procedure. 
-     **>** Repair and acquire test data. 
-     **>** Create detailed test execution schedule. 
-     **>** Execute tests, evaluate results, & document deviation from expected results. 
-     **>** Use appropriate tools to facilitate test process. 
-     **>** Automate tests as needed. 
-     **>** Evaluate non-functional characteristics (performance efficiency, reliability, usability, security, compatibility & portability). 
-     **>** Review test development with others.
+     > Review & contribute to test plan. 
+     > Analyse, review & assess requirements, user stories, acceptance criteria, specifications & test basis. 
+     > Identify & document test conditions, capture traceability between test cases, test conditions & test basis. 
+     > Contribute to configuring, & verify test environment often coordinating with system & network management.
+     > Design & implement test cases & test procedure. 
+     > Repair and acquire test data. 
+     > Create detailed test execution schedule. 
+     > Execute tests, evaluate results, & document deviation from expected results. 
+     > Use appropriate tools to facilitate test process. 
+     > Automate tests as needed. 
+     > Evaluate non-functional characteristics (performance efficiency, reliability, usability, security, compatibility & portability). 
+     > Review test development with others.
   </sample>  
 </p>
 
