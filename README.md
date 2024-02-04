@@ -20,18 +20,18 @@
   <h2 align="center"> What I do </h2>
   <p align="center">
    <sample> 
-     > Review & contribute to test plan. 
-     > Analyse, review & assess requirements, user stories, acceptance criteria, specifications & test basis. 
-     > Identify & document test conditions, capture traceability between test cases, test conditions & test basis. 
-     > Contribute to configuring, & verify test environment often coordinating with system & network management.
-     > Design & implement test cases & test procedure. 
-     > Repair and acquire test data. 
-     > Create detailed test execution schedule. 
-     > Execute tests, evaluate results, & document deviation from expected results. 
-     > Use appropriate tools to facilitate test process. 
-     > Automate tests as needed. 
-     > Evaluate non-functional characteristics (performance efficiency, reliability, usability, security, compatibility & portability). 
-     > Review test development with others.
+     **>** Review & contribute to test plan. 
+    ** >** Analyse, review & assess requirements, user stories, acceptance criteria, specifications & test basis. 
+     **>** Identify & document test conditions, capture traceability between test cases, test conditions & test basis. 
+     **>** Contribute to configuring, & verify test environment often coordinating with system & network management.
+     **>** Design & implement test cases & test procedure. 
+     **>** Repair and acquire test data. 
+     **>** Create detailed test execution schedule. 
+     **>** Execute tests, evaluate results, & document deviation from expected results. 
+     **>** Use appropriate tools to facilitate test process. 
+     **>** Automate tests as needed. 
+     **>** Evaluate non-functional characteristics (performance efficiency, reliability, usability, security, compatibility & portability). 
+     **>** Review test development with others.
   </sample>  
 </p>
 
@@ -82,7 +82,7 @@
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
 
-- 🔭 I’m currently working on: Building three Testing Frameworks using selenium
-- 🌱 I’m currently learning: Being an Agile Tester, Following: https://www.istqb.org/#certifications-diagram using portfoil of evidence.
+- 🔭 I’m currently working on: Building Automation Framework: Selenium-Java & TestNG
+- 🌱 I’m currently learning: Agile Technical Tester (CTAL-ATT), Following: https://www.istqb.org/#certifications-diagram using portfoil of evidence.
 - ✨  Check  my  study material :  https://linktr.ee/sibisiphumuza
 - 👯 I’m looking to collaborate on Test Automation and ISTQB Study notes.
