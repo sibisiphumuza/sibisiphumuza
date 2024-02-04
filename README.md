@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="https://sibisips.wixsite.com/phumuzasibisi" />
 
   <h2 align="center"> What I do </h2>
-  <p align="center">
+  <p align="left">
    <sample> 
      > Review & contribute to test plan. 
      > Analyse, review & assess requirements, user stories, acceptance criteria, specifications & test basis. 
@@ -36,7 +36,7 @@
 <hr>
 <h2 align="center"> 👨‍💻 An Easy way to connect/remember me</h2>
 <p align="center" align='right'>
-  <a align="center" target="_blank"href="https://linktr.ee/sibisiphumuza"><img src="https://img.shields.io/badge/lets learn from each other - linktr.ee/sibisiphumuza   -brown" /></a>
+<a align="center" target="_blank"href="https://linktr.ee/sibisiphumuza"><img src="https://img.shields.io/badge/lets learn from each other - linktr.ee/sibisiphumuza   -brown" /></a>
 <hr>
 
 <h2 align="center"> 🔭 Tools of Trade </h2>
@@ -45,7 +45,6 @@
 <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=Postman&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Microsoft_Azure-000000?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>&nbsp;&nbsp; 
 <img src="https://img.shields.io/badge/log4j-000000?style=for-the-badge&logo=log4j&logoColor=white"/>&nbsp;&nbsp;<br>
 <img src="https://img.shields.io/badge/TestNG-Red?style=for-the-badge&logo=testng&logoColor=Navy"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/ExtentReports-Orange?style=for-the-badge&logo=extentreports&logoColor=Navy"/>&nbsp;&nbsp;
