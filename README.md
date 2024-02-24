@@ -52,6 +52,8 @@
 <img src="https://img.shields.io/badge/JIRA-Orange?style=for-the-badge&logo=extentreports&logoColor=Navy"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Keyword%20Driven%20Framework-Orange?style=for-the-badge&logo=extentreports&logoColor=Navy"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Hybrid%20Driven%20Framework-Orange?style=for-the-badge&logo=extentreports&logoColor=Navy"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Cucumber-000000?style=for-the-badge&logo=Postman&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Gherkins-000000?style=for-the-badge&logo=Postman&logoColor=white"/>&nbsp;&nbsp;
 
 <h2 align="center"> 🔭 Testing  </h2>
 <p align="center">
