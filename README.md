@@ -42,16 +42,12 @@
 <h2 align="center"> 🔭 Tools of Trade </h2>
 <p align="center">
 <img src="https://img.shields.io/badge/Selenium-000000?style=for-the-badge&logo=Selenium&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=Postman&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/junit-000000?style=for-the-badge&logo=Selenium&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/log4j-000000?style=for-the-badge&logo=log4j&logoColor=white"/>&nbsp;&nbsp;<br>
 <img src="https://img.shields.io/badge/TestNG-Red?style=for-the-badge&logo=testng&logoColor=Navy"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/ExtentReports-Orange?style=for-the-badge&logo=extentreports&logoColor=Navy"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/ReportNG-Orange?style=for-the-badge&logo=extentreports&logoColor=Navy"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/JIRA-Orange?style=for-the-badge&logo=extentreports&logoColor=Navy"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Keyword%20Driven%20Framework-Orange?style=for-the-badge&logo=extentreports&logoColor=Navy"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Hybrid%20Driven%20Framework-Orange?style=for-the-badge&logo=extentreports&logoColor=Navy"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Cucumber-000000?style=for-the-badge&logo=Postman&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Gherkins-000000?style=for-the-badge&logo=Postman&logoColor=white"/>&nbsp;&nbsp;
 
